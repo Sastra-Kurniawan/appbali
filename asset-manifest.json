@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/appbali/static/css/main.5f361e03.chunk.css",
+    "main.js": "/appbali/static/js/main.939537ac.chunk.js",
+    "main.js.map": "/appbali/static/js/main.939537ac.chunk.js.map",
+    "runtime-main.js": "/appbali/static/js/runtime-main.444250c2.js",
+    "runtime-main.js.map": "/appbali/static/js/runtime-main.444250c2.js.map",
+    "static/css/2.8e698235.chunk.css": "/appbali/static/css/2.8e698235.chunk.css",
+    "static/js/2.8f615cdd.chunk.js": "/appbali/static/js/2.8f615cdd.chunk.js",
+    "static/js/2.8f615cdd.chunk.js.map": "/appbali/static/js/2.8f615cdd.chunk.js.map",
+    "index.html": "/appbali/index.html",
+    "precache-manifest.c50d0625a7504e1d2826de0f2f8dc91c.js": "/appbali/precache-manifest.c50d0625a7504e1d2826de0f2f8dc91c.js",
+    "service-worker.js": "/appbali/service-worker.js",
+    "static/css/2.8e698235.chunk.css.map": "/appbali/static/css/2.8e698235.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/appbali/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8f615cdd.chunk.js.LICENSE.txt": "/appbali/static/js/2.8f615cdd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/appbali/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.444250c2.js",
+    "static/css/2.8e698235.chunk.css",
+    "static/js/2.8f615cdd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.939537ac.chunk.js"
+  ]
+}
